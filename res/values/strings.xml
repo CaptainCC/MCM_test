@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MCM_test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">企业</string>
+    <string name="submit">确定</string>
+    <string name="jump">跳转到</string>
+    <string name="add">添加文件</string>
+    <string name="pintext">请输入您的PIN码</string>
+
+</resources>
